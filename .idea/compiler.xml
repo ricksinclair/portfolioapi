@@ -8,16 +8,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="contactservice" />
         <module name="portforlioapi" />
+        <module name="portfolioapi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="contactservice" target="1.8" />
+      <module name="portfolioapi" target="1.8" />
       <module name="portforlioapi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="contactservice" options="-parameters" />
+      <module name="portfolioapi" options="-parameters" />
       <module name="portforlioapi" options="-parameters" />
     </option>
   </component>

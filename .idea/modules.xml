@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/contactservice.iml" filepath="$PROJECT_DIR$/contactservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portfolioapi.iml" filepath="$PROJECT_DIR$/portfolioapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/portforlioapi.iml" filepath="$PROJECT_DIR$/portforlioapi.iml" />
     </modules>
   </component>
