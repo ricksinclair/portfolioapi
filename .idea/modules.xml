@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/contactservice.iml" filepath="$PROJECT_DIR$/contactservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portforlioapi.iml" filepath="$PROJECT_DIR$/portforlioapi.iml" />
+    </modules>
+  </component>
+</project>

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ulrictodman</groupId>
-    <artifactId>contactservice</artifactId>
+    <artifactId>portforlioapi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>contactservice</name>
+    <name>portfolioapi</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
