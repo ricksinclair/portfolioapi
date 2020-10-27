@@ -6,8 +6,9 @@ import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 @ExtendWith(SpringExtension.class)
-@WebMvcTest
+@WebMvcTest(ContactInformationController.class)
 public class ContactInfoControllerTest {
+
 
 
 }

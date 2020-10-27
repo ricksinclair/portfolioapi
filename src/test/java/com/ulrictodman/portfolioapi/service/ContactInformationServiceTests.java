@@ -145,9 +145,7 @@ public class ContactInformationServiceTests {
             contactInformationService.update(testContact1);
         });
         String expectedMessage = String.format("The resource with id %d was not found and therefore couldn't be updated.", testContact1.getId());
-
         String actualMessage = exception.getMessage();
-
         assertEquals(expectedMessage, actualMessage);
     }
 
